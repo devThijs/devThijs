@@ -116,8 +116,8 @@ a:focus {
 }
 
 
-.content-main__linklist ul{margin-left:0;padding:0;list-style:none}
-.content-main__linklist li{padding-left:0;display:inline-block}
+.content-main__linklist ul{margin-left:0;padding:0;list-style:none; }
+.content-main__linklist li{padding-left:0;display:inline-block; }
 .content-main__linklist li:after{content:"|";padding-left:8px;padding-right:8px;color:#e0e0e0}
 .content-main__linklist li:last-child:after{display:none}
 .content-main__linklist a{display:inline-block;color:#3e3e3e}
@@ -338,8 +338,9 @@ mark {
 }
 
 hr {
-    border: solid rgba(0, 0, 0, 0.1);
+    border: solid rgba(255, 255, 255, 0.685);
     border-width: 1px 0 0;
+    width: 100%;
     clear: both;
     margin: 2.4rem 0 1.5rem;
     height: 0;
@@ -3406,6 +3407,7 @@ footer a:hover, footer a:focus {
 
 .footer-bottom .copyright span {
     display: inline-block;
+    color: white;
 }
 
 .footer-bottom .copyright span::after {
