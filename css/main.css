@@ -2232,6 +2232,10 @@ html.no-csstransitions .home-content__main {
 .about-content .left {
     padding-right: 40px;
 }
+.about-content .leftalot {
+    padding-right: 40px;
+    margin-right: 16%;
+}
 
 .about-content .right {
     padding-left: 40px;
