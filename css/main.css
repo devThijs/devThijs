@@ -69,8 +69,19 @@
  * ------------------------------------------------------------------- */
 
 #gitHub {
-    margin-top: 100px;
+    margin-top: 20px;
+    font-size: 1.6rem;
 }
+
+#gitHub_big{
+    margin-top: 20px;
+    font-size: 5rem;
+}
+
+#picme {
+    border: 5px solid rgb(44, 44, 44);
+  }
+
 
 html {
     font-size: 10px;
@@ -1835,7 +1846,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     right: 0;
     bottom: 2.1rem;
-    text-align: center;
 }
 
 .home-content__buttons .btn {
