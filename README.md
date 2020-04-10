@@ -1,1 +1,1 @@
-No one reads readme's haha
+No one reads readme's haha, but here goes anyway. This is a small site I use to advertise my skills. I might add a blog.
